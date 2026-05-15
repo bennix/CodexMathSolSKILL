@@ -1,0 +1,4 @@
+interface:
+  display_name: "Math Visual Solver"
+  short_description: "Visual Chinese math PDF and LaTeX MP4 solver"
+  default_prompt: "Use $math-visual-solver to solve this math problem visually in Chinese, verify it with two methods, and produce clean LaTeX output. If animation is requested, render formulas with MathTex and deliver a verified MP4."
